@@ -1,1 +1,1 @@
-# Madlibs
+# Madlibs (Beginner friendly)
